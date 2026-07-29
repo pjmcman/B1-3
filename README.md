@@ -29,8 +29,9 @@ Trigger(이메일 감지)와 Action(분석 및 저장), 그리고 조건 분기(
 * **Action 2**: 
   * `Gmail - Create a Draft`: 조건 분기에 맞게 머리말이 달린 답장 초안을 Gmail 임시보관함(Drafts)에 자동 저장
 
-> 🖼️ **[Make 워크플로우 구성 화면 캡처]**  
-> `[이미지 첨부 위치: Make_Scenario_Architecture.png]`
+> 🖼️ **[Make 워크플로우 구성 화면 캡처]**
+> 
+><img width="621" height="213" alt="Image" src="https://github.com/user-attachments/assets/91b1924e-c5cb-4e8b-b54c-f0d242d1dc42" />
 
 > 🖼️ **[Make 실행 결과 화면 캡처]**  
 > `[이미지 첨부 위치: Make_Execution_Success.png]`
