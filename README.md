@@ -48,11 +48,9 @@ Trigger(이메일 감지)와 Action(분석 및 저장), 그리고 조건 분기(
   * `Gmail - Create Draft`: Gemini가 생성한 답장 초안을 Gmail 임시보관함에 저장
 
 > 🖼️ **[Zapier 워크플로우 구성 화면 캡처]**  
-> `[이미지 첨부 위치: Zapier_Workflow_Architecture.png]`
-
+<img width="502" height="503" alt="Image" src="https://github.com/user-attachments/assets/63e8781f-de33-43af-9a8a-6f3d1c9e5ab9" />
 > 🖼️ **[Zapier 실행 결과 화면 캡처]**  
-> `[이미지 첨부 위치: Zapier_Execution_Success.png]`
-
+<img width="686" height="355" alt="Image" src="https://github.com/user-attachments/assets/a4ade4ed-a3aa-41f3-ad5a-067c15f9e830" />
 ---
 
 ### 2.4 비교 분석 보고서
