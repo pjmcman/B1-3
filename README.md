@@ -34,7 +34,7 @@ Trigger(이메일 감지)와 Action(분석 및 저장), 그리고 조건 분기(
 ><img width="621" height="213" alt="Image" src="https://github.com/user-attachments/assets/91b1924e-c5cb-4e8b-b54c-f0d242d1dc42" />
 
 > 🖼️ **[Make 실행 결과 화면 캡처]**  
-> `[이미지 첨부 위치: Make_Execution_Success.png]`
+[> `[이미지 첨부 위치: Make_Execution_Success.png]`](https://private-user-images.githubusercontent.com/299512523/628194868-a4ade4ed-a3aa-41f3-ad5a-067c15f9e830.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODUyOTAzMzIsIm5iZiI6MTc4NTI5MDAzMiwicGF0aCI6Ii8yOTk1MTI1MjMvNjI4MTk0ODY4LWE0YWRlNGVkLWEzYWEtNDFmMy1hZDVhLTA2N2MxNWY5ZTgzMC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwNzI5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDcyOVQwMTUzNTJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT01NWNmODg1NmY2YjJjMGY0NmY1OTYwZDAyZDlkOTkzMzRmY2ZmMWY5ZGM3ZGY3OGRlMDI5ZmE2NjcyZTkxN2YxJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmcifQ.XkvyYivFCaWA1jQ8r7BkGlhZ28Pjqa1KJK6sXtW_xNU)
 
 ---
 
